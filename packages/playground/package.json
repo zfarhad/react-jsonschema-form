@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf/playground",
+  "name": "@teknim/rjsf-playground",
   "version": "5.24.3",
   "description": "rjsf playground",
   "private": true,
@@ -102,7 +102,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
+    "url": "git+https://github.com/zfarhad/react-jsonschema-form.git"
   },
   "author": "Nicolas Perriault <nperriault@mozilla.com>",
   "contributors": [
@@ -115,7 +115,7 @@
     "json-schema"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/rjsf-team/react-jsonschema-form",
+  "homepage": "https://github.com/zfarhad/react-jsonschema-form",
   "publishConfig": {
     "access": "public"
   }
