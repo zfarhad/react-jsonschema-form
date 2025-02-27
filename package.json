@@ -61,25 +61,11 @@
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
     "tslib": "^2.6.2",
-    "typescript": "^4.9.5"
+    "typescript": "^5.7.3"
   },
   "workspaces": [
-    "packages/antd",
-    "packages/bootstrap-4",
-    "packages/chakra-ui",
-    "packages/core",
-    "packages/docs",
-    "packages/fluent-ui",
-    "packages/fluentui-rc",
     "packages/mantine",
-    "packages/material-ui",
-    "packages/mui",
-    "packages/playground",
-    "packages/semantic-ui",
-    "packages/utils",
-    "packages/validator-ajv6",
-    "packages/validator-ajv8",
-    "packages/snapshot-tests"
+    "packages/playground"
   ],
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

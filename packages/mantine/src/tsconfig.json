@@ -8,16 +8,5 @@
     "outDir": "../lib",
     "baseUrl": "../",
     "jsx": "react-jsx"
-  },
-  "references": [
-    {
-      "path": "../../core"
-    },
-    {
-      "path": "../../utils"
-    },
-    {
-      "path": "../../validator-ajv8"
-    }
-  ]
+  }
 }
